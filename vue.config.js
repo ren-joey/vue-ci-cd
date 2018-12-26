@@ -1,4 +1,4 @@
 // vue.config.js
 module.exports = {
-  baseUrl: 'vue-ci-cd'
+  baseUrl: '/vue-ci-cd/'
 }
