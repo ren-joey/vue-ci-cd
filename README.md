@@ -1,4 +1,4 @@
-# cicd v
+# cicd v1.0
 
 ## Project setup
 ```
